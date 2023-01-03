@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">NotificationLogger</string>
+    <string name="tab_text_1">Recent</string>
+    <string name="tab_text_2">Favorite</string>
+    <string name="settings_button">Settings Button</string>
+    <string name="deleteRecentAfter">Delete Recent After</string>
+    <string name="deleteFavoriteAfter">Delete Favorite After</string>
+    <string name="service_name">NotificationListenerr</string>
+
+    <string-array name="options">
+        <item>Never</item>
+        <item>One Day</item>
+        <item>Three Days</item>
+        <item>Five Days</item>
+        <item>One Week</item>
+        <item>Two Weeks</item>
+        <item>Three Weeks</item>
+        <item>One Month</item>
+        <item>1 Year</item>
+    </string-array>
+</resources>
